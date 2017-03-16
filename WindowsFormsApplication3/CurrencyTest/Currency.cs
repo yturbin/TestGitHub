@@ -15,6 +15,8 @@ namespace CurrencyTest
             ChangeRate = changeRate;
             CurrencyName = currencyName;
             Amount = amount;
+
+            // test 
         }
 
         public Currency Times(int times)
