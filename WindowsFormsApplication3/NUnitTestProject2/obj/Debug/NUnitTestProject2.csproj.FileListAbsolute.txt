@@ -1,0 +1,10 @@
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\NUnitTestProject2.dll
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\NUnitTestProject2.pdb
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\CurrencyTest.dll
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\nunit.framework.dll
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\NUnit.System.Linq.dll
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\CurrencyTest.pdb
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\bin\Debug\nunit.framework.xml
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\obj\Debug\NUnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\obj\Debug\NUnitTestProject2.dll
+C:\Users\y.turbin\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\NUnitTestProject2\obj\Debug\NUnitTestProject2.pdb
