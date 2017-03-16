@@ -24,8 +24,8 @@ namespace NUnitTestProject2
             var sum2 = Currency.Dollar(5).Sum(Currency.Frank(10));
             Assert.True(sum2.Equal(Currency.Dollar(10)));
 
-            var sum3 = Currency.Dollar(5).Sum(Currency.Frank(10));
-            Assert.True(sum3.Equal(Currency.Dollar(10)));
+            var sum4 = Currency.Dollar(5).Sum(Currency.Frank(10));
+            Assert.True(sum4.Equal(Currency.Dollar(10)));
         }
     }
 }
